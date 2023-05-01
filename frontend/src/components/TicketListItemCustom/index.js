@@ -34,7 +34,7 @@ import VisibilityIcon from "@material-ui/icons/Visibility";
 import TicketMessagesDialog from "../TicketMessagesDialog";
 import DoneIcon from '@material-ui/icons/Done';
 import ClearOutlinedIcon from '@material-ui/icons/ClearOutlined';
-import  from "../../helpers/contrastColor";
+import contrastColor from "../../helpers/contrastColor";
 import ContactTag from "../ContactTag";
 
 const useStyles = makeStyles((theme) => ({
